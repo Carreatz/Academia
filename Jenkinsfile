@@ -13,7 +13,7 @@ pipeline {
             steps {
                 sh '''
                 pwd
-                echo "hola y tu"
+                echo "hola y tsu"
                 '''
             }
         }
